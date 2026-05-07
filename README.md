@@ -1,2 +1,7 @@
-# demo-estudio-juridico-sd-asoc
-Demo web para Estudio Jurídico SD &amp; Asoc. — diseñada por eterlab.
+# Estudio Jurídico SD & Asoc.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
